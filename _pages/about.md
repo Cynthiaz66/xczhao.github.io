@@ -31,7 +31,7 @@ My research interest includes machine learning, Deep learning, Genomics and Clin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12259/122595P/Predicting-the-salary-in-data-science-through-BP-neural-network/10.1117/12.2638838.short)
+[Deep Residual Learning for Image Recognition](https://doi.org/10.1117/12.2638838)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
